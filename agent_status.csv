@@ -1,0 +1,21 @@
+﻿Login ID,Status,Duration (min)
+21662,AUX,12
+Agent 2,Available,5
+Agent 3,Break,8
+Agent 4,Offline,20
+Agent 5,Unaligned AUX,15
+Agent 6,AUX,9
+Agent 7,Available,3
+Agent 8,Break,14
+Agent 9,Offline,25
+Agent 10,Unaligned AUX,18
+Agent 11,AUX,7
+Agent 12,Available,6
+Agent 13,Break,11
+Agent 14,Offline,22
+Agent 15,Unaligned AUX,16
+Agent 16,AUX,10
+Agent 17,Available,4
+Agent 18,Break,9
+Agent 19,Offline,30
+Agent 20,Unaligned AUX,17

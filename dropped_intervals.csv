@@ -1,0 +1,6 @@
+﻿Account,Interval,Service Level,Dropped Intervals,Reason
+101 Account,10:00-10:30,85.4,3,High AUX usage
+101 Account,11:00-11:30,78.2,5,Excessive breaks
+Non Voice Account,09:30-10:00,82.7,2,Low staffing
+Smiles Account,13:00-13:30,75.6,6,System downtime
+Prestige Account,14:00-14:30,88.3,4,Call spikes

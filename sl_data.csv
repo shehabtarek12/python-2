@@ -1,0 +1,11 @@
+﻿Account,Interval,SL %,Dropped Intervals
+101 Account,09:00-09:30,85.4,2
+101 Account,09:30-10:00,83.2,3
+Non Voice Account,09:00-09:30,90.1,1
+Non Voice Account,09:30-10:00,88.7,2
+SMB Account,09:00-09:30,78.9,4
+SMB Account,09:30-10:00,80.3,3
+Smiles Account,09:00-09:30,92.5,1
+Smiles Account,09:30-10:00,91.8,1
+Prestige Account,09:00-09:30,95.2,0
+Prestige Account,09:30-10:00,94.7,0

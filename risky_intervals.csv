@@ -1,0 +1,11 @@
+﻿Time Interval,Account,Service Level,Dropped Calls,Risk Level
+10:00-10:15,101 Account,85.2,15,High
+10:15-10:30,Non Voice Account,78.5,20,High
+10:30-10:45,SMB Account,90.1,5,Low
+10:45-11:00,Smiles Account,82.3,12,Medium
+11:00-11:15,Prestige Account,75.8,25,High
+11:15-11:30,101 Account,88,8,Medium
+11:30-11:45,Non Voice Account,92.3,4,Low
+11:45-12:00,SMB Account,79.6,18,High
+12:00-12:15,Smiles Account,84.7,10,Medium
+12:15-12:30,Prestige Account,70.5,30,High
